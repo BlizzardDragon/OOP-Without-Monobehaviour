@@ -1,1 +1,14 @@
-# OOP-Without-Monobehaviour
+# OOP + Castom DI + NoMonobehaviour
+
+Описание
+---
+Небольшая аркада, написанная в классической ООП парадигме. В проекте используется самописный DI контейнер и система модулей, которая позволяет отказаться от большинства Monobehaviour.
+
+Управление
+---
+- A, D 
+- Space
+
+Скриншот
+---
+<img src="Assets\Resources\Arcade.png" width="300">
